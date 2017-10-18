@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d74c2396-fec7-2b43-930e-cc159b01cc5f++8814" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d74c2396-fec7-2b43-930e-cc159b01cc5f++8814" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C263B35E-CEE5-4E5F-ABC8-35C2DAD138FF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d74c2396-fec7-2b43-930e-cc159b01cc5f++8814" : "Douyu\/Douyu\/ThirdFramework\/MJRefresh\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Douyu",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Douyu.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.3.200\/svn\/student",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d74c2396-fec7-2b43-930e-cc159b01cc5f++8814"
+    }
+  ]
+}

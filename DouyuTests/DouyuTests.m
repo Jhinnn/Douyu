@@ -27,6 +27,8 @@
 - (void)testExample {
     // This is an example of a functional test case.
     // Use XCTAssert and related functions to verify your tests produce the correct results.
+    double time =  [[NSDate date] timeIntervalSince1970];
+    NSLog(@"---%lf",time);
 }
 
 - (void)testPerformanceExample {
